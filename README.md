@@ -52,25 +52,11 @@ Let’s work together to bring your vision online and grow your digital presence
 <br>
 <div align="center" style="margin-bottom:20px;">
   <!-- Highlight WordPress & Shopify first -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50" alt="WordPress" />
-  <img width="15" />
-  <img src="https://logos-world.net/wp-content/uploads/2020/11/Shopify-Emblem.png" height="50" alt="Shopify" />
-  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
-  <img width="15" />
-  <img src="https://vectorseek.com/wp-content/uploads/2023/09/Bootstrap-5-Logo-Vector.svg-.png" height="45" alt="Bootstrap" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-plain.svg" height="45" alt="WooCommerce" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
 </div>
@@ -92,8 +78,6 @@ Let’s work together to bring your vision online and grow your digital presence
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="Adobe XD" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Adobe Photoshop" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="FileZilla" />
   <img width="10" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/xampp-logo-png-transparent.png" height="40" alt="XAMPP" />
 </div>
