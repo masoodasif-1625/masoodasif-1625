@@ -1,6 +1,6 @@
 <!-- ================= PROFILE HEADER ================= -->
 <div align="center">
-  <img src="portfolio image.png" 
+  <img src="Untitled design.png" 
        alt="Muhammad Sami Ullah" 
        width="300" 
        height="300" 
