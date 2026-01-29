@@ -14,11 +14,11 @@
   <a href="https://www.linkedin.com/in/sami-ullah2004/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <!-- GitHub -->
-  <a href="https://github.com/sami-ullah-2004" target="_blank" rel="noopener noreferrer">
+  <a href="[https://github.com/sami-ullah-2004](https://github.com/masoodasif-1625)" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
   <!-- Email -->
-  <a href="mailto:Sami.Ullah2004@outlook.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:masoodw00rk@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
   <!-- Portfolio -->
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 
   <!-- WhatsApp -->
-  <a href="https://wa.me/923709207207" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/923153279615" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
   <!-- Fiverr -->
@@ -37,7 +37,7 @@
 <br>
 <!-- ================= ABOUT ================= -->
 <p align="justify">
-Hi, I'm <b>Muhammad Sami Ullah</b> — a passionate Freelance <b>Web Developer & Designer</b> specializing in <b>WordPress</b>, <b>Shopify</b>, and <b>custom-coded</b> websites.  
+Hi, I'm <b>Hafiz Masood Asif</b> — a passionate Freelance <b>Web Developer & Designer</b> specializing in <b>WordPress</b>, <b>Shopify</b>, and <b>custom-coded</b> websites.  
 I create fast, responsive, and SEO-friendly websites that help brands stand out and turn visitors into loyal customers.  
 
 Whether you need a modern business site or a high-converting eCommerce store, I deliver clean code, pixel-perfect design, and seamless user experiences.  
