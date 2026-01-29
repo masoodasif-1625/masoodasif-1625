@@ -1,4 +1,10 @@
-<!-- ================= PROFILE HEADER ================= -->
+<div align="center">
+  <img src="Untitled design (1).png" 
+       alt="Muhammad Sami Ullah" 
+       width="300" 
+       height="300" 
+       style="border-radius:50%; object-fit:cover; border:3px solid #c9d1d9;" />
+</div><!-- ================= PROFILE HEADER ================= -->
 
 <h1 align="center">Hey 👋 What's up?</h1>
 
